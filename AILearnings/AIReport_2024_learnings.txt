@@ -1,1 +1,17 @@
-This is the first file for setup. Will update going forward
+AI notes
+2024 Report
+What are foundational models?
+Foundational models are boom last year, this year is consolidation
+AI agent is a machine that can take decisions in an environment.
+I have understood few commonly used words in AI domain. 
+Transforms learn which input data is more important for current task. Rag concept that we are using in chunk usage
+We are using generative ai for visual effects in movies.
+Open source llm model performance seems to be converging. What could be possible ways to improve that? Or is there any possibility at all? 
+What is inference compute in llm world? 
+Inference computing is nothing but analyzing input prompt before sending it to llm to better understand context. This out performs pre trained and post trained data models. But it is 3-4x more costly. It’s performance is also slow.
+After reading for sometime it feels better to start reading about transformer. 
+What are tokens in AI models?
+There are mistakes in benchmarks and as research progress they are getting better.
+Symbolic engines are being used to solve math problems. What does neuro-symbolic engine mean?
+Reducing the number of layers in models only degrades performance a little? Will it be better to reduce number of layers and use compute inference to improve performance? 
+What does distilling of models mean?
