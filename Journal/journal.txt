@@ -1,2 +1,8 @@
 Oct 17, 2024
 1. Created a public github repo to start learning everyday
+Oct 18, 2024
+I did read more than half of transformers paper to start understanding of LLM designs and how they work.
+Oct 19-27, 2024
+I have not spend any time on my self growth during this week.
+Oct 28, 2024
+I have pushed my notes that I have written last week.
