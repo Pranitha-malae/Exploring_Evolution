@@ -9,3 +9,7 @@ I have pushed my notes that I have written last week.
 
 Dec 19, 2024
 I am in the process of making this consistent. So started writing about Youtube videos that I am watching to learn AI advancements.
+These changes are completed on Monday, but I did not commit them then.
+
+Dec 19, 2024
+Committing my notes about Google Android XR glasses opinion. I have watched their release video Yesterday and writing my comments on it today.
