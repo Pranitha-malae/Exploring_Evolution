@@ -13,3 +13,5 @@ These changes are completed on Monday, but I did not commit them then.
 
 Dec 19, 2024
 Committing my notes about Google Android XR glasses opinion. I have watched their release video Yesterday and writing my comments on it today.
+Dec 20, 2024
+completed reading a blog on ModernBert and learned few things in AI space
